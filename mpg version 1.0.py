@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 
-The Miles Per Gallon program
+#The Miles Per Gallon program
 
-Enter trip distance:		500
-Enter miles_gallon used:	50
-Enter cost per gallon:		3.24
+#Enter trip distance:		500
+#Enter miles_gallon used:	50
+#Enter cost per gallon:		3.24
 
-Miles Per Gallon:	50.0
-Total Gas Cost:		10.0
-Cost Per Mile:		32.4
+#Miles Per Gallon:	            50.0
+#Total Gas Cost:		10.0
+#Cost Per Mile:		32.4
 
-Bye!
+#Bye!
 
 
 # display a welcome message
